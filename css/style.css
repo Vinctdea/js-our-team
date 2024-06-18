@@ -38,7 +38,7 @@ main{
 }
 
 .col{
-background-color: rgb(201, 32, 32);
+background-color: rgb(250, 248, 248);
 width: calc(100% / 3 - 20px);
 /* debug */
 /* height: 500px; */
