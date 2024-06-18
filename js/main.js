@@ -11,37 +11,37 @@ const label = document.querySelector(".flex");
 // Creare l’array di oggetti con le informazioni fornite.
 
 const arrDati = [
-    pers1 ={
+    {
         "nome": "Wayne Barnett",
         "ruolo": "CEO & Founder",
         "img": "wayne-barnett-founder-ceo.jpg"
     },
 
-    pers2 ={
+    {
         "nome": "Angela",
         "ruolo": "Chief Editor",
         "img": "angela-caroll-chief-editor.jpg"
     },
 
-    pers3 ={
+    {
         "nome": "Walter Gordon",
         "ruolo": "office Manager",
         "img": "walter-gordon-office-manager.jpg"
     },
 
-    pers4 ={
+    {
         "nome": "Angela Lopez",
         "ruolo": "Social Media Manager",
         "img": "angela-lopez-social-media-manager.jpg"
     },
 
-    pers5 = {
+    {
         "nome": "Scott Estrada",
         "ruolo": "Developer",
         "img": "scott-estrada-developer.jpg"
     },
 
-    pers6 = {
+    {
         "nome": "Barbara Ramos",
         "ruolo": "Graphic Designer",
         "img": "barbara-ramos-graphic-designer.jpg"
