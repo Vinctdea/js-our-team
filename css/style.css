@@ -1,0 +1,43 @@
+/* ***********REGOLE GENERALI********************** */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ************REGOLE MAIN*************** */
+
+/* *****TITOLO***** */
+main{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+
+
+#titolo h1{
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+/**********LABEL*******/
+
+.flex{
+    display: flex;
+    background-color: bisque;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.col{
+background-color: rgb(201, 32, 32);
+width: calc(100% / 3 - 20px);
+/* debug */
+min-height: 200px;
+
+
+
+}
